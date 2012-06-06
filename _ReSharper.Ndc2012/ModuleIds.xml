@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="D7B0D072-F4E0-4384-87C6-640008A53198" ModuleId="Petshop.Frontend" />
+  <Module PersistentId="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B" ModuleId="Petshop.Messages" />
+  <Module PersistentId="25584E52-2EF7-472A-8531-43BB4BF293CD" ModuleId="Petshop.Backend" />
+</Modules>

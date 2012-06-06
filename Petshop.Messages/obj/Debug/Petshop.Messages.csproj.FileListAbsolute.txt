@@ -1,0 +1,5 @@
+C:\dev\ndc2012\Petshop.Messages\bin\Debug\Petshop.Messages.dll
+C:\dev\ndc2012\Petshop.Messages\bin\Debug\Petshop.Messages.pdb
+C:\dev\ndc2012\Petshop.Messages\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\ndc2012\Petshop.Messages\obj\Debug\Petshop.Messages.dll
+C:\dev\ndc2012\Petshop.Messages\obj\Debug\Petshop.Messages.pdb

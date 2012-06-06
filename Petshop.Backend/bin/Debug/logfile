@@ -1,0 +1,20 @@
+2012-06-06 11:15:55,069 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 11:15:55,153 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 11:15:55,205 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 11:15:55,258 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 11:15:55,454 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 11:15:55,456 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 11:15:58,408 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue andreas6220\private$\petshop.backend.retries does not exist.
+2012-06-06 11:15:58,471 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue andreas6220\private$\petshop.backend.timeouts does not exist.
+2012-06-06 11:15:58,522 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue andreas6220\private$\petshop.backend does not exist.
+2012-06-06 11:17:46,892 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 11:17:46,992 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 11:17:47,029 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 11:17:47,104 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 11:17:47,318 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 11:17:47,320 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 11:17:51,363 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue andreas6220\private$\error does not exist.
+2012-06-06 11:17:51,451 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue andreas6220\private$\backend.retries does not exist.
+2012-06-06 11:17:51,499 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue andreas6220\private$\backend.timeouts does not exist.
+2012-06-06 11:17:51,553 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue andreas6220\private$\backend does not exist.
+2012-06-06 11:18:19,240 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Received an empty message - ignoring.

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petshop.Frontend", "Petshop.Frontend\Petshop.Frontend.csproj", "{D7B0D072-F4E0-4384-87C6-640008A53198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petshop.Messages", "Petshop.Messages\Petshop.Messages.csproj", "{D935AC6F-1C99-4ABA-8A4E-CD2D6766946B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petshop.Backend", "Petshop.Backend\Petshop.Backend.csproj", "{25584E52-2EF7-472A-8531-43BB4BF293CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7B0D072-F4E0-4384-87C6-640008A53198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B0D072-F4E0-4384-87C6-640008A53198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B0D072-F4E0-4384-87C6-640008A53198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B0D072-F4E0-4384-87C6-640008A53198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D935AC6F-1C99-4ABA-8A4E-CD2D6766946B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D935AC6F-1C99-4ABA-8A4E-CD2D6766946B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D935AC6F-1C99-4ABA-8A4E-CD2D6766946B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D935AC6F-1C99-4ABA-8A4E-CD2D6766946B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25584E52-2EF7-472A-8531-43BB4BF293CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25584E52-2EF7-472A-8531-43BB4BF293CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25584E52-2EF7-472A-8531-43BB4BF293CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25584E52-2EF7-472A-8531-43BB4BF293CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
