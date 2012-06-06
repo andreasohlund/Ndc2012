@@ -350,3 +350,87 @@ NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception
 2012-06-06 12:43:28,828 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
 2012-06-06 12:43:28,987 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
 2012-06-06 12:43:28,990 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 13:45:35,768 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 13:45:35,850 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 13:45:35,904 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 13:45:35,977 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 13:45:36,127 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 13:45:36,130 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 13:52:03,996 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 13:52:04,076 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 13:52:04,112 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 13:52:04,188 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 13:52:04,345 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 13:52:04,347 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 13:57:38,341 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 13:57:38,427 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 13:57:38,468 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 13:57:38,545 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 13:57:38,551 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-06-06 13:57:38,691 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 13:57:38,694 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 13:57:43,548 [Worker.10] INFO  NServiceBus.Unicast.MessagingBestPractices [(null)] <(null)> - You are using a basic message to do pub/sub, consider implementing the more specific ICommand and IEvent interfaces to help NServiceBus to enforce messaging best practices for you
+2012-06-06 14:04:32,411 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 14:04:32,489 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 14:04:32,525 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 14:04:32,597 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 14:04:32,604 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-06-06 14:04:32,747 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 14:04:32,750 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 14:04:39,782 [Worker.10] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing petshop.frontend@andreas6220 to message type Petshop.Messages.OrderAccepted, Petshop.Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-06-06 14:05:10,370 [Worker.10] INFO  NServiceBus.Unicast.MessagingBestPractices [(null)] <(null)> - You are using a basic message to do pub/sub, consider implementing the more specific ICommand and IEvent interfaces to help NServiceBus to enforce messaging best practices for you
+2012-06-06 14:05:26,561 [Worker.10] INFO  NServiceBus.Unicast.MessagingBestPractices [(null)] <(null)> - You are using a basic message to do pub/sub, consider implementing the more specific ICommand and IEvent interfaces to help NServiceBus to enforce messaging best practices for you
+2012-06-06 14:05:42,968 [Worker.10] INFO  NServiceBus.Unicast.MessagingBestPractices [(null)] <(null)> - You are using a basic message to do pub/sub, consider implementing the more specific ICommand and IEvent interfaces to help NServiceBus to enforce messaging best practices for you
+2012-06-06 14:26:31,532 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - System.ArgumentException: Member is not a property
+   at NServiceBus.Utils.Reflection.Reflect`1.GetProperty(Expression`1 property, Boolean checkForSingleDot)
+   at NServiceBus.Sagas.Impl.ConfigureHowToFindSagaWithMessageDispatcher.NServiceBus.Saga.IConfigureHowToFindSagaWithMessage.ConfigureMapping[TSagaEntity,TMessage](Expression`1 sagaEntityProperty, Expression`1 messageProperty)
+   at NServiceBus.Saga.Saga`1.ConfigureMapping[TMessage](Expression`1 sagaEntityProperty, Expression`1 messageProperty)
+   at Backend.Shipping.ShippingSaga.ConfigureHowToFindSaga() in C:\dev\ndc2012\Petshop.Backend\Shipping\ShippingSaga.cs:line 25
+   at NServiceBus.Saga.Saga`1.NServiceBus.Saga.IConfigurable.Configure()
+   at NServiceBus.Sagas.Impl.Configure.ConfigureSaga(Type t)
+   at NServiceBus.Sagas.Impl.Configure.SagasIn(IEnumerable`1 types)
+   at NServiceBus.ConfigureSagas.Sagas(Configure config)
+   at NServiceBus.Hosting.Windows.Roles.Handlers.ServerRoleHandler.ConfigureRole(IConfigureThisEndpoint specifier) in d:\BuildAgent-03\work\nsb.master22\src\hosting\NServiceBus.Hosting.Windows\Roles\Handlers\ServerRoleHandler.cs:line 23
+   at NServiceBus.Hosting.Roles.RoleManager.ConfigureBusForEndpoint(IConfigureThisEndpoint specifier) in d:\BuildAgent-03\work\nsb.master22\src\hosting\NServiceBus.Hosting\Roles\RoleManager.cs:line 52
+   at NServiceBus.Hosting.GenericHost.PerformConfiguration() in d:\BuildAgent-03\work\nsb.master22\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 122
+   at NServiceBus.Hosting.GenericHost.Start() in d:\BuildAgent-03\work\nsb.master22\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 30
+2012-06-06 14:27:25,526 [1] FATAL NServiceBus.Hosting.GenericHost [(null)] <(null)> - System.ArgumentException: Member is not a property
+   at NServiceBus.Utils.Reflection.Reflect`1.GetProperty(Expression`1 property, Boolean checkForSingleDot)
+   at NServiceBus.Sagas.Impl.ConfigureHowToFindSagaWithMessageDispatcher.NServiceBus.Saga.IConfigureHowToFindSagaWithMessage.ConfigureMapping[TSagaEntity,TMessage](Expression`1 sagaEntityProperty, Expression`1 messageProperty)
+   at NServiceBus.Saga.Saga`1.ConfigureMapping[TMessage](Expression`1 sagaEntityProperty, Expression`1 messageProperty)
+   at Backend.Shipping.ShippingSaga.ConfigureHowToFindSaga() in C:\dev\ndc2012\Petshop.Backend\Shipping\ShippingSaga.cs:line 25
+   at NServiceBus.Saga.Saga`1.NServiceBus.Saga.IConfigurable.Configure()
+   at NServiceBus.Sagas.Impl.Configure.ConfigureSaga(Type t)
+   at NServiceBus.Sagas.Impl.Configure.SagasIn(IEnumerable`1 types)
+   at NServiceBus.ConfigureSagas.Sagas(Configure config)
+   at NServiceBus.Hosting.Windows.Roles.Handlers.ServerRoleHandler.ConfigureRole(IConfigureThisEndpoint specifier) in d:\BuildAgent-03\work\nsb.master22\src\hosting\NServiceBus.Hosting.Windows\Roles\Handlers\ServerRoleHandler.cs:line 23
+   at NServiceBus.Hosting.Roles.RoleManager.ConfigureBusForEndpoint(IConfigureThisEndpoint specifier) in d:\BuildAgent-03\work\nsb.master22\src\hosting\NServiceBus.Hosting\Roles\RoleManager.cs:line 52
+   at NServiceBus.Hosting.GenericHost.PerformConfiguration() in d:\BuildAgent-03\work\nsb.master22\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 122
+   at NServiceBus.Hosting.GenericHost.Start() in d:\BuildAgent-03\work\nsb.master22\src\hosting\NServiceBus.Hosting\GenericHost.cs:line 30
+2012-06-06 14:28:22,854 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 14:28:22,934 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 14:28:22,970 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 14:28:23,041 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 14:28:23,047 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-06-06 14:28:23,201 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 14:28:23,204 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 14:28:28,332 [Worker.10] INFO  NServiceBus.Unicast.MessagingBestPractices [(null)] <(null)> - You are using a basic message to do pub/sub, consider implementing the more specific ICommand and IEvent interfaces to help NServiceBus to enforce messaging best practices for you
+2012-06-06 14:28:30,119 [Worker.10] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing petshop.frontend@andreas6220 to message type Petshop.Messages.OrderAccepted, Petshop.Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-06-06 14:28:31,040 [Worker.10] INFO  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Subscribing petshop.frontend@andreas6220 to message type Petshop.Messages.OrderAccepted, Petshop.Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2012-06-06 14:28:31,910 [Worker.10] INFO  NServiceBus.Unicast.MessagingBestPractices [(null)] <(null)> - You are using a basic message to do pub/sub, consider implementing the more specific ICommand and IEvent interfaces to help NServiceBus to enforce messaging best practices for you
+2012-06-06 14:29:33,525 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 14:29:33,605 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 14:29:33,641 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 14:29:33,710 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 14:29:33,716 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-06-06 14:29:33,864 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 14:29:33,866 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 14:29:39,798 [Worker.10] INFO  NServiceBus.Unicast.MessagingBestPractices [(null)] <(null)> - You are using a basic message to do pub/sub, consider implementing the more specific ICommand and IEvent interfaces to help NServiceBus to enforce messaging best practices for you
+2012-06-06 14:34:38,081 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 14:34:38,158 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 14:34:38,195 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 14:34:38,266 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 14:34:38,272 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Publisher is marked.
+2012-06-06 14:34:38,417 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 14:34:38,420 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 14:34:45,450 [Worker.10] INFO  NServiceBus.Unicast.MessagingBestPractices [(null)] <(null)> - You are using a basic message to do pub/sub, consider implementing the more specific ICommand and IEvent interfaces to help NServiceBus to enforce messaging best practices for you

@@ -4,6 +4,7 @@ namespace Petshop.Messages
 
     public class PlaceOrder
     {
+        public Guid OrderId { get; set; }
         public Guid ProductId { get; set; }
     }
 }

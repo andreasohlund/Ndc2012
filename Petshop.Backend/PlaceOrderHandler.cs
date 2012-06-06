@@ -5,24 +5,18 @@
     using Petshop.Messages;
     using Raven.Client.Document;
 
-    public class PlaceOrderHandler:IHandleMessages<PlaceOrder>
+    public class PlaceOrderHandler : IHandleMessages<PlaceOrder>
     {
         public IBus Bus { get; set; }
 
         public void Handle(PlaceOrder message)
         {
-            Bus.Defer(TimeSpan.FromSeconds(30), new SendOutOrderRevireForm());
+            Bus.Publish(new OrderAccepted
+                            {
+                                OrderId = message.OrderId
+                            });
         }
     }
-
-    public class SendOutOrderRevireFormHandler : IHandleMessages<SendOutOrderRevireForm>
-     {
-        public void Handle(SendOutOrderRevireForm message)
-        {
-
-            Console.WriteLine("Send the review form");
-        }
-     }
 
     public class PlaceOrderHandler2 : IHandleMessages<PlaceOrder>
     {
@@ -42,7 +36,7 @@
             }
             Console.WriteLine("Store in db: " + message.ProductId);
 
-           // throw new Exception("Failed to send email");
+            // throw new Exception("Failed to send email");
         }
     }
 }

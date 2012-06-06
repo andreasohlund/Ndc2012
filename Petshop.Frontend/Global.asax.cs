@@ -23,13 +23,16 @@ namespace Petshop.Frontend
             BundleConfig.RegisterBundles(BundleTable.Bundles);
 
             Configure.With()
-                .DefiningMessagesAs(t=>t.Namespace != null && t.Namespace.StartsWith("Petshop.Messages"))
+                .DefiningMessagesAs(t => t.Namespace != null && t.Namespace.StartsWith("Petshop.Messages"))
                 .DefaultBuilder()
                 .ForWebApi()
                 .XmlSerializer()
                 .MsmqTransport()
                 .UnicastBus()
-                .SendOnly();
+                .CreateBus()
+                .Start(() => Configure.Instance
+                    .ForInstallationOn<NServiceBus.Installation.Environments.Windows>()
+                    .Install());
 
         }
     }

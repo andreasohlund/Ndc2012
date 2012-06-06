@@ -1,44 +1,49 @@
 ﻿<RecentFiles>
   <RecentFiles>
     <File id="D7B0D072-F4E0-4384-87C6-640008A53198/d:Controllers/f:ValuesController.cs" caret="0" fromTop="0" />
-    <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:PlaceOrder.cs" caret="24" fromTop="0" />
     <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:NServiceBusDependencyResolverAdapter.cs" caret="1153" fromTop="29" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/d:Sales/f:PlaceOrderController.cs" caret="340" fromTop="3" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Web.config" caret="776" fromTop="5" />
-    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:EndpointConfig.cs" caret="534" fromTop="11" />
     <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:SendOutOrderRevireForm.cs" caret="24" fromTop="0" />
-    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="584" fromTop="2" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="1098" fromTop="37" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:app.config" caret="301" fromTop="5" />
+    <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:PlaceOrder.cs" caret="79" fromTop="4" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="867" fromTop="4" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:EndpointConfig.cs" caret="300" fromTop="6" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Web.config" caret="663" fromTop="0" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/d:Sales/f:PlaceOrderController.cs" caret="659" fromTop="5" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="634" fromTop="20" />
+    <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:OrderAccepted.cs" caret="111" fromTop="6" />
+    <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:OrderBilled.cs" caret="95" fromTop="6" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/d:Shipping/f:ShippingSaga.cs" caret="799" fromTop="8" />
   </RecentFiles>
   <RecentEdits>
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/d:Sales/f:PlaceOrderController.cs" caret="518" fromTop="10" />
-    <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:PlaceOrder.cs" caret="24" fromTop="0" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/d:Sales/f:PlaceOrderController.cs" caret="230" fromTop="4" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="1090" fromTop="17" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="1090" fromTop="18" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="61" fromTop="2" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="206" fromTop="5" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="1101" fromTop="5" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:NServiceBusDependencyResolverAdapter.cs" caret="1157" fromTop="6" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:NServiceBusDependencyResolverAdapter.cs" caret="1996" fromTop="18" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="846" fromTop="6" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:NServiceBusDependencyResolverAdapter.cs" caret="981" fromTop="4" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/d:Sales/f:PlaceOrderController.cs" caret="340" fromTop="3" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Web.config" caret="686" fromTop="10" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Web.config" caret="797" fromTop="5" />
-    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:EndpointConfig.cs" caret="102" fromTop="5" />
-    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:EndpointConfig.cs" caret="558" fromTop="18" />
-    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:EndpointConfig.cs" caret="561" fromTop="8" />
-    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:EndpointConfig.cs" caret="311" fromTop="5" />
-    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:EndpointConfig.cs" caret="534" fromTop="11" />
-    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="899" fromTop="9" />
-    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="713" fromTop="8" />
-    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="349" fromTop="6" />
-    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="1190" fromTop="15" />
-    <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:SendOutOrderRevireForm.cs" caret="24" fromTop="0" />
-    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="470" fromTop="14" />
-    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="623" fromTop="4" />
-    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="379" fromTop="7" />
-    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="1098" fromTop="18" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="1029" fromTop="4" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="1272" fromTop="18" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Web.config" caret="663" fromTop="9" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="1203" fromTop="12" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="1029" fromTop="6" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="493" fromTop="6" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="867" fromTop="4" />
+    <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:PlaceOrder.cs" caret="115" fromTop="6" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="434" fromTop="5" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="553" fromTop="4" />
+    <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:OrderAccepted.cs" caret="26" fromTop="0" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:EndpointConfig.cs" caret="300" fromTop="6" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/d:Sales/f:PlaceOrderController.cs" caret="271" fromTop="1" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/d:Sales/f:PlaceOrderController.cs" caret="774" fromTop="6" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/d:Sales/f:PlaceOrderController.cs" caret="657" fromTop="11" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="655" fromTop="20" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/d:Shipping/f:ShippingSaga.cs" caret="1146" fromTop="17" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/d:Shipping/f:ShippingSaga.cs" caret="1668" fromTop="12" />
+    <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:OrderBilled.cs" caret="23" fromTop="0" />
+    <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:OrderAccepted.cs" caret="129" fromTop="6" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/d:Shipping/f:ShippingSaga.cs" caret="1556" fromTop="13" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/d:Shipping/f:ShippingSaga.cs" caret="317" fromTop="4" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/d:Shipping/f:ShippingSaga.cs" caret="1522" fromTop="13" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/d:Shipping/f:ShippingSaga.cs" caret="575" fromTop="5" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/d:Shipping/f:ShippingSaga.cs" caret="1910" fromTop="13" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/d:Shipping/f:ShippingSaga.cs" caret="996" fromTop="6" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/d:Shipping/f:ShippingSaga.cs" caret="1313" fromTop="12" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/d:Shipping/f:ShippingSaga.cs" caret="804" fromTop="9" />
+    <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:OrderBilled.cs" caret="95" fromTop="6" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/d:Shipping/f:ShippingSaga.cs" caret="753" fromTop="8" />
   </RecentEdits>
 </RecentFiles>

@@ -9,7 +9,8 @@ namespace Backend
     using NServiceBus.Unicast.Queuing;
     using NServiceBus.Unicast.Transport;
 
-    public class EndpointConfig:IConfigureThisEndpoint,AsA_Server,IWantCustomInitialization
+    public class EndpointConfig:IConfigureThisEndpoint,
+        AsA_Publisher,IWantCustomInitialization
     {
         public void Init()
         {
