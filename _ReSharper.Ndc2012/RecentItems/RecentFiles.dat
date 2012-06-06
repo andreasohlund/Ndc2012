@@ -1,4 +1,44 @@
 ﻿<RecentFiles>
-  <RecentFiles />
-  <RecentEdits />
+  <RecentFiles>
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/d:Controllers/f:ValuesController.cs" caret="0" fromTop="0" />
+    <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:PlaceOrder.cs" caret="24" fromTop="0" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:NServiceBusDependencyResolverAdapter.cs" caret="1153" fromTop="29" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/d:Sales/f:PlaceOrderController.cs" caret="340" fromTop="3" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Web.config" caret="776" fromTop="5" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:EndpointConfig.cs" caret="534" fromTop="11" />
+    <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:SendOutOrderRevireForm.cs" caret="24" fromTop="0" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="584" fromTop="2" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="1098" fromTop="37" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/d:Sales/f:PlaceOrderController.cs" caret="518" fromTop="10" />
+    <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:PlaceOrder.cs" caret="24" fromTop="0" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/d:Sales/f:PlaceOrderController.cs" caret="230" fromTop="4" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="1090" fromTop="17" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="1090" fromTop="18" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="61" fromTop="2" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="206" fromTop="5" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="1101" fromTop="5" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:NServiceBusDependencyResolverAdapter.cs" caret="1157" fromTop="6" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:NServiceBusDependencyResolverAdapter.cs" caret="1996" fromTop="18" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="846" fromTop="6" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:NServiceBusDependencyResolverAdapter.cs" caret="981" fromTop="4" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/d:Sales/f:PlaceOrderController.cs" caret="340" fromTop="3" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Web.config" caret="686" fromTop="10" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Web.config" caret="797" fromTop="5" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:EndpointConfig.cs" caret="102" fromTop="5" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:EndpointConfig.cs" caret="558" fromTop="18" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:EndpointConfig.cs" caret="561" fromTop="8" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:EndpointConfig.cs" caret="311" fromTop="5" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:EndpointConfig.cs" caret="534" fromTop="11" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="899" fromTop="9" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="713" fromTop="8" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="349" fromTop="6" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="1190" fromTop="15" />
+    <File id="D935AC6F-1C99-4ABA-8A4E-CD2D6766946B/f:SendOutOrderRevireForm.cs" caret="24" fromTop="0" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="470" fromTop="14" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="623" fromTop="4" />
+    <File id="25584E52-2EF7-472A-8531-43BB4BF293CD/f:PlaceOrderHandler.cs" caret="379" fromTop="7" />
+    <File id="D7B0D072-F4E0-4384-87C6-640008A53198/f:Global.asax.cs" caret="1098" fromTop="18" />
+  </RecentEdits>
 </RecentFiles>

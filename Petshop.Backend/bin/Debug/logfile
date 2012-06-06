@@ -18,3 +18,335 @@
 2012-06-06 11:17:51,499 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue andreas6220\private$\backend.timeouts does not exist.
 2012-06-06 11:17:51,553 [1] WARN  NServiceBus.Utils.MsmqUtilities [(null)] <(null)> - Queue andreas6220\private$\backend does not exist.
 2012-06-06 11:18:19,240 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Received an empty message - ignoring.
+2012-06-06 11:42:29,014 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 11:42:29,127 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 11:42:29,166 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 11:42:29,229 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 11:42:29,423 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 11:42:29,425 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 11:42:35,534 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - Received an empty message - ignoring.
+2012-06-06 11:44:33,628 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 11:44:33,760 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 11:44:33,796 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 11:44:33,861 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 11:44:34,071 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 11:44:34,073 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 11:45:58,787 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 11:45:58,871 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 11:45:58,906 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 11:45:58,966 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 11:45:59,156 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 11:45:59,159 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 11:52:57,964 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 11:52:58,071 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 11:52:58,115 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 11:52:58,194 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 11:52:58,396 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 11:52:58,399 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 11:53:37,672 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 11:53:37,754 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 11:53:37,790 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 11:53:37,848 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 11:53:38,077 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 11:53:38,080 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:05:40,070 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 12:05:40,191 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 12:05:40,232 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 12:05:40,313 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 12:05:40,528 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:05:40,531 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:05:51,666 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:05:51,714 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:05:53,992 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:05:54,019 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:06:00,085 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:06:00,109 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:06:01,619 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:06:01,643 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:06:03,135 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:06:03,160 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:06:04,103 [Worker.10] ERROR NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Message has failed the maximum number of times allowed, ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226.
+2012-06-06 12:06:04,155 [Worker.13] INFO  SecondLevelRetries [(null)] <(null)> - Defer message and send it to backend@andreas6220 using the timeout manager at backend.timeouts@andreas6220
+2012-06-06 12:06:18,043 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:06:18,069 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:06:20,239 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:06:20,266 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:06:21,741 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:06:21,769 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:06:23,241 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:06:23,269 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:06:24,922 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:06:24,948 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:06:25,767 [Worker.10] ERROR NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Message has failed the maximum number of times allowed, ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226.
+2012-06-06 12:06:25,799 [Worker.13] INFO  SecondLevelRetries [(null)] <(null)> - Defer message and send it to backend@andreas6220 using the timeout manager at backend.timeouts@andreas6220
+2012-06-06 12:06:54,929 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:06:54,957 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:06:56,799 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:06:56,825 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:06:58,344 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:06:58,369 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:06:59,855 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:06:59,879 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:07:01,466 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:07:01,491 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:07:02,308 [Worker.10] ERROR NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Message has failed the maximum number of times allowed, ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226.
+2012-06-06 12:07:02,334 [Worker.13] INFO  SecondLevelRetries [(null)] <(null)> - Defer message and send it to backend@andreas6220 using the timeout manager at backend.timeouts@andreas6220
+2012-06-06 12:07:33,881 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:07:33,906 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:07:35,418 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:07:35,442 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:07:36,972 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:07:36,997 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:07:41,790 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:07:41,815 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:07:43,303 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Bug
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 19
+2012-06-06 12:07:43,328 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:07:44,145 [Worker.10] ERROR NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Message has failed the maximum number of times allowed, ID=0784ecf5-20d5-41a4-9837-31121db10460\4718226.
+2012-06-06 12:07:44,182 [Worker.13] INFO  SecondLevelRetries [(null)] <(null)> - Send message to error queue, error@andreas6220
+2012-06-06 12:08:15,885 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 12:08:15,999 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 12:08:16,049 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 12:08:16,119 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 12:08:16,365 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:08:16,367 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:29:09,118 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 12:29:09,210 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 12:29:09,246 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 12:29:09,323 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 12:29:09,471 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:29:09,474 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:30:19,293 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 12:30:19,371 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 12:30:19,406 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 12:30:19,485 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 12:30:19,649 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:30:19,652 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:30:30,423 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler failed handling message.
+System.Exception: Failed to send email
+   at Backend.PlaceOrderHandler.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 12
+2012-06-06 12:30:30,458 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718258
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:30:32,414 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler failed handling message.
+System.Exception: Failed to send email
+   at Backend.PlaceOrderHandler.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 12
+2012-06-06 12:30:32,441 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718258
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:30:53,897 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 12:30:53,979 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 12:30:54,014 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 12:30:54,089 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 12:30:54,239 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:30:54,241 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:31:21,166 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Failed to send email
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 34
+2012-06-06 12:31:21,203 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718258
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:31:22,843 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Failed to send email
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 34
+2012-06-06 12:31:22,868 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718258
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:31:24,231 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Failed to send email
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 34
+2012-06-06 12:31:24,260 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718258
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:31:25,608 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Failed to send email
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 34
+2012-06-06 12:31:25,633 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718258
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:31:27,280 [Worker.10] WARN  NServiceBus.Unicast.UnicastBus [(null)] <(null)> - PlaceOrderHandler2 failed handling message.
+System.Exception: Failed to send email
+   at Backend.PlaceOrderHandler2.Handle(PlaceOrder message) in C:\dev\ndc2012\Petshop.Backend\PlaceOrderHandler.cs:line 34
+2012-06-06 12:31:27,310 [Worker.10] WARN  NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Failed raising 'transport message received' event for message with ID=0784ecf5-20d5-41a4-9837-31121db10460\4718258
+NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException: Exception of type 'NServiceBus.Unicast.Transport.TransportMessageHandlingFailedException' was thrown.
+   at NServiceBus.Unicast.UnicastBus.HandleTransportMessage(IBuilder childBuilder, TransportMessage msg)
+   at NServiceBus.Unicast.UnicastBus.TransportMessageReceived(Object sender, TransportMessageReceivedEventArgs e)
+   at System.EventHandler`1.Invoke(Object sender, TEventArgs e)
+   at NServiceBus.Unicast.Transport.Transactional.TransactionalTransport.OnTransportMessageReceived(TransportMessage msg)
+2012-06-06 12:31:28,241 [Worker.10] ERROR NServiceBus.Unicast.Transport.Transactional.TransactionalTransport [(null)] <(null)> - Message has failed the maximum number of times allowed, ID=0784ecf5-20d5-41a4-9837-31121db10460\4718258.
+2012-06-06 12:31:28,302 [Worker.13] INFO  SecondLevelRetries [(null)] <(null)> - Defer message and send it to backend@andreas6220 using the timeout manager at backend.timeouts@andreas6220
+2012-06-06 12:37:33,117 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 12:37:33,202 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 12:37:33,239 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 12:37:33,316 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 12:37:33,462 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:37:33,464 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:41:59,410 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 12:41:59,502 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 12:41:59,544 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 12:41:59,656 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 12:41:59,848 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:41:59,851 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:43:28,637 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-06-06 12:43:28,713 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\dev\ndc2012\Petshop.Backend\bin\Debug\License\License.xml
+2012-06-06 12:43:28,750 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to 1 worker thread.
+2012-06-06 12:43:28,828 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-06-06 12:43:28,987 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-06-06 12:43:28,990 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
